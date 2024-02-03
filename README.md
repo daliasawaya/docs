@@ -2,4 +2,4 @@
 
 Tutorial 5 for CSI3540
 
-[Système de design](/docs/design_system.md)
+[Système de design](/design_system.md)

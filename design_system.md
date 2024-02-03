@@ -1,9 +1,9 @@
 # Design System
 
 ## Fonts
-- **Heading Font:** Calibri
-- **Body Font:** Arial
+- **Cambria**
 
 ## Colors
-- **Primary Color:** Blue (#0000FF)
-- **Secondary Color:** Pink (#FFC0CB)
+- **Background Gradient:** Pink to Purple: #ff758c, #ff7eb3, #75a3ff
+- **Font:** Off-White #fff
+- **Link Hover:** Light Pink #fda1c7
